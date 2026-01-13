@@ -1,0 +1,8 @@
+{
+  "name": "Copy of InstaGemini",
+  "description": "A visually stunning social media and chat platform that uses Gemini to power interactive AI friends and simulated social experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
